@@ -1,1 +1,3 @@
-# graphql-auth
+# react-graphql
+
+Demo app using GraphQL
